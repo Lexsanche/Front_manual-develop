@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "116827091526",
+    "project_id": "ambient-elf-416621",
+    "storage_bucket": "ambient-elf-416621.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116827091526:android:dc0f6b59833ec7b9a59047",
+        "android_client_info": {
+          "package_name": "com.example.front_manual"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTZiXj4XY-6oFPHjRUPDuHTdkBzs7gwLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116827091526:android:09e0677d92a28228a59047",
+        "android_client_info": {
+          "package_name": "com.example.tesis_front"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTZiXj4XY-6oFPHjRUPDuHTdkBzs7gwLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
