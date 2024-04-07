@@ -4,7 +4,9 @@ import 'package:http/http.dart' as http;
 import '../models/item.dart';
 
 class ItemService {
-  final String _baseUrl = 'http://34.16.154.218:8000';
+  //final String _baseUrl = 'http://34.16.154.218:8000';
+  static String _baseUrl = 'http://127.0.0.1:8000';
+
 
   Future<List<Item>> fetchItems() async {
     final response = await http.get(Uri.parse('$_baseUrl/api/items/'));
